@@ -20,7 +20,7 @@ global.alivemsg = `📤I am alive now😇
 😎😎😎😎😎😎😎😎😎😎😎😎😎
 පරිස්සමෙන් ඉන්න🍀🌼
 මම උශිර පාරංග
-🍀....genarated by Ushira max😎....🍀` //Costomize Alive Message (type your message in `` )
+🍀....genarated by Ushira max😎....🍀` 
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)

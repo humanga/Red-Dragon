@@ -30,7 +30,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+94712053971'] // owner number
-global.ownername = "Ushira Paranga" // owner name
+global.ownername = "😎𝗨𝘀𝗵𝗶𝗿𝗮 𝗣𝗮𝗿𝗮𝗻𝗴𝗮" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "Srilanka, Galle, Asia" // location

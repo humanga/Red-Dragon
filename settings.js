@@ -1,6 +1,11 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
+
+global.fbapi = 'dd79-1aeb-21a3' // Facebook download 2 api
+
+
+
 //Api Website\\
 global.APIs = {
 	zenz: 'https://zenzapis.xyz',
@@ -8,7 +13,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': '01ABEB1E11',
 }
 
 global.alivemsg =`📤I am alive now😇

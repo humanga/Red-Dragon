@@ -12,7 +12,15 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉`
+🤷‍♀️How can I help you?😉` සතුටින්ද ඉන්නේ😘`
+`කමාන්ඩ් ගැන දැන ගන්න .menu එවන්න 🌼🎭`
+`කමාන්ඩ් දෙන්න කලින් ඩොට් එකක් ටයිප් කරන්න(.)
+😘🌼꧂☬`
+`🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀`
+`😎😎😎😎😎😎😎😎😎😎😎😎😎`
+`පරිස්සමෙන් ඉන්න🍀🌼`
+`මම උශිර පාරංග`
+`🍀....genarated by Ushira max😎....🍀` 
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
